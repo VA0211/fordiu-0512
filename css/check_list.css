@@ -26,7 +26,7 @@ html,body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background: #000;
+    background: #0b1522;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ canvas {
 #pinkboard:after {
     content: '';
     position: absolute;
-    background: #FF5CA4;
+    background: #f1414a;
     width: 100px;
     height: 160px;
     border-top-left-radius: 50px;
