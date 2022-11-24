@@ -15,11 +15,11 @@ body {
     line-height: 1.4;
 }
   
-.container{
-    padding: 2rem;
-    padding-bottom: 400px;
-    margin: 0 auto;
-    max-width: 800px;
+.container {
+    max-width: 960px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 3rem;
 }
 
 html,body {
