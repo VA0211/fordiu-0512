@@ -166,11 +166,11 @@ body{
 }
   
   
-.container{
-    padding: 2rem;
-    padding-bottom: 400px;
-    margin: 0 auto;
-    max-width: 700px;
+.container {
+    max-width: 960px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 3rem;
 }
 
 .top-section{
